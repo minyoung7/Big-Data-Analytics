@@ -2,15 +2,18 @@
 
 ## 목차
 
-- [01. Setting and Basics](./01_Setting_and_Basics.md)
-- [02. Vector and Factor](./02_Vector_and_Factor.md)
-- [03. Date and Time](./03_Date_and_Time.md)
-- [04. Matrix and Array](./04_Matrix_and_Array.md)
-- [05. DataFrame and List](./05_DataFrame_and_List.md)
-- [06. Apply Functions](./06_Apply_Functions.md)
-- [07. User Defined Functions](./07_UserDefined_Functions.md)
-- [08. Graphs and Aggregation](./08_Graphs_and_Aggregation.md)
-- [09. Data Input and Output](./09_Data_Input_Output.md)
+## 목차
+
+- [01. Setting and Basics](./01.%20Setting%20and%20Basics.md)
+- [02. Vector and Factor](./02.%20Vector%20and%20Factor.md)
+- [03. Date and Time](./03.%20Date%20and%20Time.md)
+- [04. Matrix and Array](./04.%20Matrix%20and%20Array.md)
+- [05. DataFrame and List](./05.%20DataFrame%20and%20List.md)
+- [06. Apply Functions](./06.%20Apply%20Functions.md)
+- [07. User Defined Functions](./07.%20User%20Defined%20Functions.md)
+- [08. Graphs and Aggregation](./08.%20Graphs%20and%20Aggregation.md)
+- [09. Data Input and Output](./09.%20Data%20Input%20and%20Output.md)
+
 
 ---
 
