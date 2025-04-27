@@ -4,17 +4,18 @@
 
 ## 목차
 
-- [01. Setting and Basics](./01.%20Setting%20and%20Basics.md)
-- [02. Vector and Factor](./02.%20Vector%20and%20Factor.md)
-- [03. Date and Time](./03.%20Date%20and%20Time.md)
-- [04. Matrix and Array](./04.%20Matrix%20and%20Array.md)
-- [05. DataFrame and List](./05.%20DataFrame%20and%20List.md)
-- [06. Apply Functions](./06.%20Apply%20Functions.md)
-- [07. User Defined Functions](./07.%20User%20Defined%20Functions.md)
-- [08. Graphs and Aggregation](./08.%20Graphs%20and%20Aggregation.md)
-- [09. Data Input and Output](./09.%20Data%20Input%20and%20Output.md)
+- [01. Setting and Basics](R/01.%20Setting%20and%20Basics.md)
+- [02. Vector and Factor](R/02.%20Vector%20and%20Factor.md)
+- [03. Date and Time](R/03.%20Date%20and%20Time.md)
+- [04. Matrix and Array](R/04.%20Matrix%20and%20Array.md)
+- [05. DataFrame and List](R/05.%20DataFrame%20and%20List.md)
+- [06. Apply Functions](R/06.%20Apply%20Functions.md)
+- [07. User Defined Functions](R/07.%20User%20Defined%20Functions.md)
+- [08. Graphs and Aggregation](R/08.%20Graphs%20and%20Aggregation.md)
+- [09. Data Input and Output](R/09.%20Data%20Input%20and%20Output.md)
 
 
+(../main/App%20Programming/6주차/후위표기법%20계산기%20구현(파이썬).md)
 ---
 
 ## 설명
