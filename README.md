@@ -2,7 +2,7 @@
 
 ## 목차
 
-## 목차
+
 
 - [01. Setting and Basics](R/01.%20Setting%20and%20Basics.md)
 - [02. Vector and Factor](R/02.%20Vector%20and%20Factor.md)
