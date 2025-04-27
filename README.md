@@ -15,7 +15,7 @@
 - [09. Data Input and Output](R/09.%20Data%20Input%20and%20Output.md)
 
 
-(../main/App%20Programming/6주차/후위표기법%20계산기%20구현(파이썬).md)
+
 ---
 
 ## 설명
