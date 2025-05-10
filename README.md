@@ -13,7 +13,7 @@
 - [07. User Defined Functions](R/07.%20User%20Defined%20Functions.md)
 - [08. Graphs and Aggregation](R/08.%20Graphs%20and%20Aggregation.md)
 - [09. Data Input and Output](R/09.%20Data%20Input%20and%20Output.md)
-- [10. R 기본 그래프 실습 모음 (plot, barplot, axis, title, legend, 색상, 레이아웃 포함 실습 예제 정리)](R/10.%20Data%20Input%20and%20Output.md)
+- [10. R 기본 그래프 실습 모음 (plot, barplot, axis, title, legend, 색상, 레이아웃 포함 실습 예제 정리)](R/10.%20R%20기본%20그래프%20실습%20모음.md)  10. R 기본 그래프 실습 모음.md
 
 
 
